@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "ElderLynk-Main",
+    "slug": "ElderLynk-Main",
+    "extra": {
+      "anthropicApiKey": "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",
+      "eas": {
+        "projectId": "871d9bfe-60d9-418c-80dc-112e7a76d20a"
+      }
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.noorkookie2010.ElderLynk-Main",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
