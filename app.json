@@ -3,7 +3,7 @@
     "name": "ElderLynk-Main",
     "slug": "ElderLynk-Main",
     "extra": {
-      "anthropicApiKey": "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",
+      "anthropicApiKey": "ADD_YOUR_KEY_HERE",
       "eas": {
         "projectId": "871d9bfe-60d9-418c-80dc-112e7a76d20a"
       }
